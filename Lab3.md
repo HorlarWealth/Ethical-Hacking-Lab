@@ -27,12 +27,8 @@
 | **Known Subdomains** | api.github.com<br>docs.github.com<br>gist.github.com<br>support.github.com<br>resources.github.com |
 | **Related Domains** | github.io (for user/project pages)<br>githubusercontent.com (for file hosting) |
 | **WHOIS Last Updated** | 2025-10-21T11:30:05Z |
-| **ICANN Complaint Form** | [https://www.icann.org/wicf/](https://www.icann.org/wicf/) |
-
----
-
-### 📘 Notes
-
-- This information was obtained from WHOIS and DNS lookup on **October 21, 2025**.  
-- IP and DNS records may change periodically.  
-- GitHub’s infrastructure is distributed across multiple regions via AWS and its own AS36459 network.
+| **ICANN Complaint Form** | [https://www.icann.org/wicf/](https://www.icann.org/wicf/) |![Capture1](https://github.com/user-attachments/assets/8c17d440-6871-41ec-a2f0-b4d1f9eaf6a9)
+![Capture 5](https://github.com/user-attachments/assets/10823137-eabf-4ae4-8870-98b3ab8ca6ee)
+![Capture 4](https://github.com/user-attachments/assets/ccd8c771-cd5e-4a45-9a43-e92df631cfd9)
+![Capture 3](https://github.com/user-attachments/assets/1e8a48a1-3c37-40c3-b898-9d69a493a57b)
+![Capture 2](https://github.com/user-attachments/assets/89bd2e06-f346-4e21-9645-1b9f2094583e)
